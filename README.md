@@ -109,6 +109,6 @@ Model Evaluation Results:
 Logistic Regression Accuracy: 0.9323
 Random Forest Accuracy: 0.9316
 
-✅ Best model saved: LogisticRegression with accuracy 0.8845
+✅ Best model saved: LogisticRegression with accuracy 0.9323
 ```
 
